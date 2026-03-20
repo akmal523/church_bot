@@ -1,0 +1,40 @@
+{
+  "menu_title": {
+    "ru": "📖 Основы православия",
+    "en": "📖 Basics of Orthodoxy",
+    "uz": "📖 Православие асослари",
+    "uzl": "📖 Pravoslavie asoslari"
+  },
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": {
+        "ru": "1. Символ веры",
+        "en": "1. The Nicene Creed",
+        "uz": "1. Имон рамзи",
+        "uzl": "1. Imon ramzi"
+      },
+      "content": {
+        "ru": "<b>Символ веры</b> — это краткое и точное изложение основ христианского вероучения, составленное на Первом и Втором Вселенских Соборах.\n\nВ нем 12 членов (частей), которые говорят о Боге Отце, Сыне Божием, Духе Святом, о Церкви, таинствах, воскресении мертвых и вечной жизни.",
+        "en": "<b>The Creed</b> is a brief and precise statement of the fundamental Christian beliefs, compiled at the First and Second Ecumenical Councils.\n\nIt consists of 12 articles covering faith in God the Father, the Son of God, the Holy Spirit, the Church, baptism, the resurrection of the dead, and life everlasting.",
+        "uz": "<b>Имон рамзи</b> — бу Биринчи ва Иккинчи Бутунжаҳон Соборларида тузилган насронийлик таълимоти асосларининг қисқача ва аниқ баёнидир.\n\nУ 12 қисмдан иборат бўлиб, унда Ота Худо, Ўғил Худо, Муқаддас Руҳ, Черков, сирли маросимлар, ўликларнинг тирилиши ва абадий ҳаёт ҳақида сўз боради.",
+        "uzl": "<b>Imon ramzi</b> — bu Birinchi va Ikkinchi Butunjahon Soborlarida tuzilgan nasroniylik ta'limoti asoslarining qisqacha va aniq bayonidir.\n\nU 12 qismdan iborat bo'lib, unda Ota Xudo, O'g'il Xudo, Muqaddas Ruh, Cherkov, sirli marosimlar, o'liklarning tirilishi va abadiy hayot haqida so'z boradi."
+      }
+    },
+    {
+      "id": "ch2",
+      "title": {
+        "ru": "2. О молитве",
+        "en": "2. About Prayer",
+        "uz": "2. Ибодат ҳақида",
+        "uzl": "2. Ibodat haqida"
+      },
+      "content": {
+        "ru": "<b>Молитва</b> — это беседа или разговор человека с Богом. Она необходима для нашей души так же, как воздух и пища для тела.\n\nМолитвы бывают: \n1. Славословные (прославление Бога)\n2. Благодарственные\n3. Просительные",
+        "en": "<b>Prayer</b> is a conversation with God. It is as necessary for our soul as air and food are for our body.\n\nTypes of prayer:\n1. Doxology (glorifying God)\n2. Thanksgiving\n3. Supplication",
+        "uz": "<b>Ибодат</b> — бу инсоннинг Худо билан суҳбати. У руҳимиз учун худди тана учун ҳаво ва озиқ-овқат каби зарурдир.\n\nИбодат турлари:\n1. Ҳамду сано (Худони улуғлаш)\n2. Шукрона\n3. Илтижо",
+        "uzl": "<b>Ibodat</b> — bu insonning Xudo bilan suhbati. U ruhimiz uchun xuddi tana uchun havo va oziq-ovqat kabi zarurdir.\n\nIbodat turlari:\n1. Hamdu sano (Xudoni ulug'lash)\n2. Shukrona\n3. Iltijo"
+      }
+    }
+  ]
+}
